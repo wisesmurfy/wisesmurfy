@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C programming language
 - 💞️ I’m looking to collaborate on C programming language study group
 - 📫 How to reach me ... send to my email!
-- 😄 Pronouns: positive
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: wise
 
 <!---
